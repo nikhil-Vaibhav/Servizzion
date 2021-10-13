@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Servizzion</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="my_profile">My Profile</string>
+    <string name="default_bio">Hi , How are you doing ?</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_short_description">Key Highlights</string>
+    <string name="hint_long_description">Long Description of Your Service</string>
+    <string name="my_services">My Services</string>
+    <string name="pending_work">Orders Pending</string>
+    <string name="my_orders">My Orders</string>
+    <string name="add_new_service">Add New Service</string>
+    <string name="view_profile">View Profile</string>
+    <string name="verify_email">Verify with OTP</string>
+    <string name="place_order">Place Order</string>
+    <string name="status_delivered">Delivered</string>
+    <string name="add_image">ADD IMAGE</string>
+    <string name="chat_with_seller">Chat with seller</string>
+    <string name="short_description_of_yours">Short description of yours</string>
+    <string name="upload_profile_image">Upload Profile Image</string>
+    <string name="hint_charges">Your Charges</string>
+    <string name="default_charges_value">300.0</string>
+    <string name="user_name_guideline">Use a combination of lower case letters , numbers and symbols (e.g. _,@,#,$,etc.)</string>
+    <string name="mobile_no_placeholder">Mobile No.</string>
+    <string name="search_placeholder_string">Search for Services</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="share_text">Share</string>
+    <string name="active_chat">Active Chat</string>
+    <string name="delivered_orders">Delivered Orders</string>
+    <string name="update_account_details">Update Account Details</string>
+    <string name="sign_in">Sign IN</string>
+    <string name="create_account">Create New Account</string>
+    <string name="edit_menu">Edit</string>
+    <string name="delete_menu">Delete</string>
+    <string name="view_in_detail">View</string>
+    <string name="view_services">View Services</string>
+    <string name="mark_as_delivered">Mark as Delivered</string>
+    <string name="loading_string">Loading…</string>
+    <string name="update_account">Update Account</string>
+    <string name="image_to_be_sent">Image to be sent</string>
+    <string name="about_app">About App</string>
+    <string name="any_suggestions">Any Suggestions</string>
+
+    <string name="contact_details">
+        Contact Us: <br /> <b>developernisanj@gmail.com</b>
+    </string>
+    <string name="Version_details">
+        Version: <b>1.1.0</b>
+    </string>
+    <string name="delivery_requests">Delivery Requests</string>
+    <string name="requested">Requested</string>
+    <string name="delete_confirmation_text">Are you sure you want to delete this service permanently?</string>
+
+    <string name="about_app_details">
+        Servizzion is a platform where individuals having particular skill sets can connect with business companies and fulfill their business demands.
+        <br /><br />
+        We provide a simple , easy-to-use platform where anyone can start just in a few steps. We also charge the minimum possible commission on all fulfilled orders.
+        <br /><br />
+        We have built this so that more and more individual sellers can use their skills for their benefits and also businesses can get their work done at a very nominal rate.
+        We will be happy to hear from you about your experience , any suggestions regarding improvements , etc. Please feel free to write to us in the suggestion box and we will try to work on it.
+
+    </string>
+
+    <string name="welcome_text">
+        Servizzion is one stop for fulfilling your small business needs and a portal where individuals can sell their skill sets in a very simple , easy to use interface.
+    </string>
+    <string name="welcome_to_servizzion">Welcome to Servizzion</string>
+    <string name="guidelines_for_buyers">
+        <b> Guidelines for Buyers: </b>
+        <br /><br />
+        <ul>
+            <li>Easily search for services across various different fields.</li><br />
+            <li>Be professional while discussing your business or project ideas. </li><br />
+            <li>Be concise and straight forward.</li><br />
+            <li>After completing the task , the seller will generate a project delivery request. Please confirm as the project gets delivered so that we can initiate payments.</li><br />
+        </ul>
+    </string>
+
+    <string name="guidelines_for_sellers">
+        <b> Guidelines for Sellers: </b>
+        <br /><br />
+        <ul>
+            <li>Setup your account. Choose a username that describes your field of work. Provide a description of yourself for better understanding about you.</li><br />
+            <li>After completing a task , you have to mark the order as delivered from your pending orders list. This will send a request to the buyer for review.</li><br />
+            <li>We are currently working on monthly payment basis. We are working for setting our own payment systems for faster payouts. Till then we will maintain your wallets.</li><br />
+            <li>We charge <b>3%</b> commission from buyers and <b>2%</b> commission from sellers i.e. (Rs. 25 for each order of Rs. 500).</li>
+
+        </ul>
+    </string>
+    <string name="help">Help</string>
+    <string name="sending_otp">Sending OTP</string>
+    <string name="otp_sent">Otp sent successfully</string>
+    <string name="creating_account">Creating account</string>
+    <string name="key_highlights"> <u>Key Highlights</u> </string>
+
+    <string name="app_guide">
+        <b> App Guide: </b>
+        <br /><br />
+        <b>1.</b> Search for any service that you are looking for your business. (For e.g. mobile app , web design , voice over artist , etc.) <br/>
+        <b>2.</b> A list of services offered by various sellers will be listed. <br/>
+        <b>3.</b> Click on any service and view its details.<br/>
+        <b>4.</b> You can directly message the seller for discussing about your project requirements and other details.<br/>
+        <b>5.</b> Finally , if everything goes right , place the order.<br/>
+        <b>6.</b> After completing the task given , seller will request the order delivery and you will have to confirm that the order is delivered  , so that we can initiate payments.<br/>
+        <b>7.</b> For any assistance , write your query in the help section and we will respond to you. <br/>
+    </string>
+    <string name="no_result_text">No Services Available</string>
+    <string name="wallet_amount">Wallet : Rs. </string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categoryList">
+        <item>Logo Design</item>
+        <item>Game Art</item>
+        <item>Business Cards</item>
+        <item>Website Design</item>
+        <item>App Design</item>
+        <item>UX Design</item>
+        <item>Landing Page Design</item>
+        <item>Poster Design</item>
+        <item>Brochure Design</item>
+        <item>Flyer Design</item>
+        <item>Pattern Design</item>
+        <item>Social Media Design</item>
+        <item>Postcard Design</item>
+        <item>Tattoo Design</item>
+        <item>Photoshop Editing</item>
+        <item>T-Shirts Design</item>
+        <item>Infographic Design</item>
+        <item>Others</item>
+    </string-array>
+</resources>

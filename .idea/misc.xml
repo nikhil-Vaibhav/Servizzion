@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/drawable/chat_message_send_dark.xml" value="0.2703125" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/drawable/ic_round_send_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/drawable/my_profile.xml" value="0.2703125" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/drawable/place_order.xml" value="0.2703125" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/drawable/search_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/drawable/service_image_item_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/about_screen_layout.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/active_chat_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_account_setup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_chat_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_choose_service.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_filter.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_intro.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_service_input.xml" value="0.264" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_sign_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_user_section.xml" value="0.2" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/activity_view_service.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/appuser_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/bottom_sheet_dialog_updates.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/buy_service_fragment_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/cat_item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/confirm_dialog_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/custom_dialog_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/delivered_order_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/image_fragment_layout.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/image_view.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/label_textview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/message_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/message_recieved_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/message_sent_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/my_profile_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/my_service_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/order_fragment_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/order_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/pending_order_layout.xml" value="0.29683698296836986" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/pending_orders_layout.xml" value="1.050986842105263" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/profile_service_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/recycler_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/service_image_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/single_item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/single_service_item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/this_user_service_item_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/view_profile_from_chat_layout.xml" value="0.2" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/layout/view_this_services_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/menu/chat_user_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/menu/main_screen_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/jabto rai/ChatApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
